@@ -1,0 +1,13 @@
+.first-sec1{
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+  }
+.first-head1{
+    font-size: 10px;
+}
+.second-box1{
+    display: inline-flex;
+   flex-direction: column;
+}
